@@ -169,7 +169,8 @@
             color: var(--text-muted);
         }
 
-        .nav-links a:hover {
+        .nav-links a:hover,
+        .nav-links a.active {
             color: var(--text-main);
         }
 
@@ -452,18 +453,18 @@
     <header>
         <div class="container">
             <nav>
-                <div class="logo">
+                <a href="index.html" class="logo">
                     <img src="assets/abacus_logo.png" alt="Abacus Data Consulting Logo">
                     Abacus Data Consulting
-                </div>
+                </a>
                 <ul class="nav-links">
-                    <li><a href="#hero">Home</a></li>
-                    <li><a href="#services">Services</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="index.html" class="active">Home</a></li>
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
                 </ul>
                 <div class="nav-cta">
-                    <a href="#contact" class="btn btn-primary" style="padding: 8px 20px; font-size: 0.9rem;">Get in Touch</a>
+                    <a href="contact.html" class="btn btn-primary" style="padding: 8px 20px; font-size: 0.9rem;">Get in Touch</a>
                 </div>
             </nav>
         </div>
@@ -480,8 +481,8 @@
                         <h1>Better Decisions. <br><span class="text-gradient">Powered by Data.</span></h1>
                         <p>Data is a powerful tool that, when leveraged properly, leads to unique insights that support smarter, data-driven decision making. We help you harness that power.</p>
                         <div class="cta-group">
-                            <a href="#contact" class="btn btn-primary">CONTACT US</a>
-                            <a href="#services" class="btn btn-outline">Our Services</a>
+                            <a href="contact.html" class="btn btn-primary">CONTACT US</a>
+                            <a href="services.html" class="btn btn-outline">Our Services</a>
                         </div>
                     </div>
 
@@ -590,7 +591,7 @@
                     <p class="about-text">
                         Abacus Data Consulting was founded in 2018 using data to help people make better decisions. In an increasingly competitive world, we believe data is a powerful tool that, when leveraged properly, leads to unique insights that support smarter, data-driven decision making. Our work spans data analytics, web development, social media marketing, and machine learning—providing comprehensive solutions to help you succeed.
                     </p>
-                    <a href="#contact" class="btn btn-outline" style="margin-top: 1rem;">Get In Touch</a>
+                    <a href="contact.html" class="btn btn-outline" style="margin-top: 1rem;">Get In Touch</a>
                 </div>
             </div>
         </section>
@@ -611,19 +612,18 @@
                 <div class="footer-links">
                     <h4>Company</h4>
                     <ul>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Careers</a></li>
-                        <li><a href="#">Partners</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="careers.html">Careers</a></li>
                     </ul>
                 </div>
 
                 <div class="footer-links">
                     <h4>Services</h4>
                     <ul>
-                        <li><a href="#">Data Analytics</a></li>
-                        <li><a href="#">Web Development</a></li>
-                        <li><a href="#">Social Media Marketing</a></li>
-                        <li><a href="#">Machine Learning</a></li>
+                        <li><a href="services.html#data-analytics">Data Analytics</a></li>
+                        <li><a href="services.html#web-development">Web Development</a></li>
+                        <li><a href="services.html#social-media">Social Media Marketing</a></li>
+                        <li><a href="services.html#machine-learning">Machine Learning</a></li>
                     </ul>
                 </div>
 
@@ -631,7 +631,7 @@
                     <h4>Contact</h4>
                     <ul>
                         <li><a href="mailto:abacus.data.consulting@gmail.com">abacus.data.consulting@gmail.com</a></li>
-                        <li><a href="#">Lexington, KY</a></li>
+                        <li><a href="contact.html">Lexington, KY</a></li>
                     </ul>
                 </div>
             </div>
