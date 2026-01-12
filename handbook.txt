@@ -27,10 +27,10 @@ WELCOME TO ABACUS DATA CONSULTING
 
 Welcome to the team! We're glad to have you on board.
 
-Abacus Data Consulting was founded in 2018 by Daniel Webb with a clear purpose:
-using data to help people make better decisions. In an increasingly competitive
-world, data is a powerful tool that, when leveraged properly, leads to unique
-insights that support smarter, data-driven decision making.
+Abacus Data Consulting was founded in 2018 by Daniel Webb to help people make 
+better decisions. In an increasingly competitive world, data is a powerful tool 
+that, when leveraged properly, leads to unique insights that support smarter, 
+data-driven decision making.
 
 OUR SERVICES
 
@@ -43,11 +43,8 @@ Our work spans multiple disciplines, including:
 This diversity allows us to provide comprehensive solutions to our clients
 while offering varied and engaging work for our team members.
 
-MISSION STATEMENT
-
-[Mission statement to be finalized]
-
-Our guiding principle: Empowering better decisions through data.
+GUIDING PRINCIPLE 
+Empowering better decisions through data.
 
 ABOUT THIS HANDBOOK
 
@@ -67,9 +64,8 @@ EMPLOYMENT TYPES
 
 Abacus Data Consulting engages team members in various capacities:
 
-  - Independent Contractors: Our primary engagement model. Contractors work on
-    defined projects or ongoing arrangements while maintaining their independent
-    business status.
+  - Independent Contractors: Team members working on defined projects or 
+    ongoing arrangements while maintaining their independent business status.
 
   - Part-Time Employees: Team members working fewer than standard full-time
     hours on a regular schedule.
@@ -380,5 +376,6 @@ Last updated: _________________
 
 ================================================================================
                      ABACUS DATA CONSULTING
-              Empowering Better Decisions Through Data
+                   Better Decisions With Data
 ================================================================================
+
