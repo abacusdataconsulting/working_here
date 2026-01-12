@@ -27,8 +27,8 @@ WELCOME TO ABACUS DATA CONSULTING
 
 Welcome to the team! We're glad to have you on board.
 
-Abacus Data Consulting was founded in 2018 to help people make 
-better decisions. In an increasingly competitive world, data is a powerful tool 
+Abacus Data Consulting was founded in 2018 to help people make better decisions
+using data. In an increasingly competitive world, data is a powerful tool 
 that, when leveraged properly, leads to unique insights that support smarter, 
 data-driven decision making.
 
@@ -378,3 +378,4 @@ Last updated: _________________
                      ABACUS DATA CONSULTING
                    Better Decisions With Data
 ================================================================================
+
