@@ -1,0 +1,384 @@
+================================================================================
+                        ABACUS DATA CONSULTING
+                         EMPLOYEE HANDBOOK
+================================================================================
+
+Contact: abacus.data.consulting@gmail.com
+Location: Lexington, Kentucky, United States (Remote)
+
+--------------------------------------------------------------------------------
+                         TABLE OF CONTENTS
+--------------------------------------------------------------------------------
+
+1. Welcome & Company Overview
+2. Employment Policies
+3. Work Schedule & Time Off
+4. Compensation
+5. Conduct & Communication
+6. Confidentiality & Data Security
+7. Performance & Separation
+8. Acknowledgment
+
+================================================================================
+                    1. WELCOME & COMPANY OVERVIEW
+================================================================================
+
+WELCOME TO ABACUS DATA CONSULTING
+
+Welcome to the team! We're glad to have you on board.
+
+Abacus Data Consulting was founded in 2018 by Daniel Webb with a clear purpose:
+using data to help people make better decisions. In an increasingly competitive
+world, data is a powerful tool that, when leveraged properly, leads to unique
+insights that support smarter, data-driven decision making.
+
+OUR SERVICES
+
+Our work spans multiple disciplines, including:
+  - Data Analytics
+  - Web Development
+  - Social Media Marketing
+  - Machine Learning (expanding)
+
+This diversity allows us to provide comprehensive solutions to our clients
+while offering varied and engaging work for our team members.
+
+MISSION STATEMENT
+
+[Mission statement to be finalized]
+
+Our guiding principle: Empowering better decisions through data.
+
+ABOUT THIS HANDBOOK
+
+This handbook outlines the policies, procedures, and expectations for everyone
+at Abacus Data Consulting. It serves as a reference guide to help you understand
+how we operate. Policies may be updated as the company grows, and you will be
+notified of any significant changes.
+
+This handbook is not a contract of employment and does not guarantee employment
+for any specific duration.
+
+================================================================================
+                       2. EMPLOYMENT POLICIES
+================================================================================
+
+EMPLOYMENT TYPES
+
+Abacus Data Consulting engages team members in various capacities:
+
+  - Independent Contractors: Our primary engagement model. Contractors work on
+    defined projects or ongoing arrangements while maintaining their independent
+    business status.
+
+  - Part-Time Employees: Team members working fewer than standard full-time
+    hours on a regular schedule.
+
+  - Other Arrangements: We remain open to other employment structures as the
+    company evolves.
+
+Your specific employment type and terms will be outlined in your offer letter
+or contract.
+
+AT-WILL EMPLOYMENT
+
+For employees (as opposed to independent contractors), employment with Abacus
+Data Consulting is at-will. This means that either you or the company may end
+the employment relationship at any time, with or without cause or notice,
+subject to applicable law.
+
+EQUAL OPPORTUNITY
+
+Abacus Data Consulting is committed to providing equal opportunity in all
+aspects of employment. We do not discriminate based on race, color, religion,
+sex, sexual orientation, gender identity, national origin, age, disability,
+veteran status, or any other protected characteristic under applicable law.
+
+PROBATIONARY PERIOD
+
+All new team members undergo a probationary period of two (2) months from their
+first day. During this time:
+
+  - You and the company can assess whether the role is a good fit
+  - You will receive guidance and feedback on your performance
+  - A formal performance review will occur at the end of this period
+  - Certain benefits (such as use of accrued time off) become available after
+    successful completion of the probationary period
+
+Completion of the probationary period does not guarantee continued employment
+or change your at-will status.
+
+================================================================================
+                     3. WORK SCHEDULE & TIME OFF
+================================================================================
+
+WORK HOURS
+
+As a fully remote company, we embrace flexibility. There are no mandatory core
+hours. We trust you to manage your time effectively and complete your work
+responsibilities. The focus is on results and deliverables rather than hours
+logged.
+
+That said, you should:
+  - Be reasonably available during standard business hours for collaboration
+  - Communicate proactively if you'll be unavailable for extended periods
+  - Meet deadlines and commitments to clients and team members
+
+REMOTE WORK
+
+Abacus Data Consulting operates without a physical office. All work is conducted
+remotely using web-based communication and collaboration tools. You are
+responsible for maintaining a suitable workspace and reliable internet connection.
+
+HOLIDAYS
+
+We do not observe a fixed holiday schedule. Time off for holidays is flexible
+and can be arranged based on your workload and project commitments. Please
+coordinate with your team to ensure coverage when needed.
+
+VACATION / PAID TIME OFF
+
+  - During Probationary Period: Time off accrues but cannot be used until after
+    the probationary period is complete.
+
+  - After Probationary Period: Accrued time off may be used. Additional time
+    off beyond accrued amounts is unpaid.
+
+  - Requesting Time Off: Notify your supervisor as far in advance as possible.
+    For extended absences, please provide at least two weeks' notice when
+    feasible.
+
+SICK TIME
+
+Sick time is currently unpaid. However, you may use accrued vacation time for
+illness if you prefer. If you're unwell, please notify your supervisor as soon
+as possible. We understand that illness happens—just keep communication open.
+
+================================================================================
+                          4. COMPENSATION
+================================================================================
+
+PAY SCHEDULE
+
+Compensation is paid on a weekly basis. Specific payment terms, including rate
+and method of payment, are outlined in your individual contract or offer letter.
+
+INDEPENDENT CONTRACTORS
+
+If you are engaged as an independent contractor, you are responsible for:
+  - Your own tax obligations and filings
+  - Providing accurate invoices as required
+  - Maintaining any necessary business licenses or registrations
+
+BENEFITS
+
+At this time, Abacus Data Consulting does not offer traditional employee benefits
+such as health insurance or retirement plans. This may change as the company
+grows. Any future benefits will be communicated and documented separately.
+
+EXPENSES
+
+Any work-related expenses must be pre-approved before being incurred. Approved
+expenses will be reimbursed according to the terms agreed upon with your
+supervisor.
+
+================================================================================
+                    5. CONDUCT & COMMUNICATION
+================================================================================
+
+PROFESSIONAL CONDUCT
+
+We expect all team members to:
+  - Act with integrity and professionalism
+  - Treat colleagues, clients, and partners with respect
+  - Communicate honestly and constructively
+  - Take ownership of your work and commitments
+
+COMMUNICATION TOOLS
+
+We currently use the following tools for coordination:
+  - Email (primary communication)
+  - GitHub (project collaboration and code management)
+  - Text messaging (quick coordination as needed)
+
+You are expected to check communications regularly and respond within a
+reasonable timeframe. "Reasonable" varies by situation—urgent client matters
+require quicker responses than routine internal updates. Use good judgment.
+
+DRESS CODE
+
+For non-client-facing roles, there is no formal dress code.
+
+For client meetings (including video calls), please dress appropriately for
+the context. Business casual is generally suitable unless the client
+relationship calls for something more formal.
+
+HARASSMENT AND DISCRIMINATION
+
+Abacus Data Consulting has zero tolerance for harassment, discrimination, or
+bullying of any kind. This includes but is not limited to:
+  - Verbal, physical, or visual harassment
+  - Discrimination based on protected characteristics
+  - Creating a hostile or intimidating work environment
+  - Retaliation against anyone who reports concerns
+
+If you experience or witness such behavior, report it immediately. All reports
+will be taken seriously and investigated promptly.
+
+CONFLICTS OF INTEREST
+
+You must disclose any potential conflicts of interest to your supervisor. This
+includes but is not limited to:
+  - Work or business relationships with competitors
+  - Financial interests that could influence your judgment
+  - Personal relationships that could affect business decisions
+  - Outside work that could conflict with your responsibilities here
+
+When in doubt, disclose. We'd rather discuss a potential conflict than discover
+an undisclosed one later.
+
+SOCIAL MEDIA
+
+You are free to use social media personally. However:
+  - Do not represent your personal opinions as those of Abacus Data Consulting
+  - Do not share confidential company or client information
+  - Be mindful that your online presence can reflect on the company
+  - Comply with any non-disclosure agreements you have signed
+
+================================================================================
+                  6. CONFIDENTIALITY & DATA SECURITY
+================================================================================
+
+CONFIDENTIAL INFORMATION
+
+In the course of your work, you may have access to confidential information
+belonging to Abacus Data Consulting or our clients. This includes but is not
+limited to:
+  - Client data and business information
+  - Project details and strategies
+  - Internal business processes and plans
+  - Financial information
+  - Proprietary methodologies
+
+You must protect this information and not disclose it to unauthorized parties,
+both during and after your engagement with the company.
+
+NON-DISCLOSURE AGREEMENTS
+
+Depending on your role and the clients you work with, you may be required to
+sign specific non-disclosure agreements (NDAs). These are legally binding and
+must be taken seriously. Violations can result in termination and legal action.
+
+DATA HANDLING
+
+Given the nature of our data consulting work, responsible data handling is
+essential:
+  - Only access data necessary for your work
+  - Store data securely and follow any client-specific requirements
+  - Do not share data through unsecured channels
+  - Report any data breaches or security concerns immediately
+  - When a project ends, ensure proper handling of any data per client agreements
+
+INTELLECTUAL PROPERTY
+
+Work product created during your engagement with Abacus Data Consulting
+generally belongs to the company or our clients as specified in your contract.
+Review your agreement for specific terms regarding intellectual property rights.
+
+================================================================================
+                     7. PERFORMANCE & SEPARATION
+================================================================================
+
+PERFORMANCE REVIEWS
+
+We conduct performance reviews quarterly. These are opportunities to:
+  - Discuss your work and accomplishments
+  - Receive constructive feedback
+  - Set goals for the coming period
+  - Address any concerns or questions
+  - Discuss professional development
+
+Your first major performance review will occur at the end of your two-month
+probationary period.
+
+RESIGNATION
+
+If you decide to leave Abacus Data Consulting:
+  - A two-week notice period is preferred
+  - We understand circumstances vary, so discuss your situation with your
+    supervisor
+  - Complete any pending work or arrange for proper handoff
+  - Return any company property or materials
+  - Ensure proper transition of any client relationships or projects
+
+TERMINATION
+
+Employment or engagement may be terminated by the company for various reasons,
+including but not limited to performance issues, business needs, or policy
+violations.
+
+GROUNDS FOR IMMEDIATE TERMINATION
+
+Certain conduct may result in immediate termination without prior warning:
+  - Theft, fraud, or dishonesty
+  - Breach of confidentiality or NDA violations
+  - Harassment, discrimination, or violence
+  - Gross negligence or willful misconduct
+  - Unauthorized disclosure of client or company data
+  - Working under the influence of drugs or alcohol
+  - Insubordination or refusal to perform job duties
+  - Any illegal activity in connection with work
+
+This list is not exhaustive. The company reserves the right to terminate
+employment or engagement at any time for any lawful reason.
+
+================================================================================
+                         8. ACKNOWLEDGMENT
+================================================================================
+
+EMPLOYEE ACKNOWLEDGMENT
+
+By signing below, I acknowledge that:
+
+1. I have received and read the Abacus Data Consulting Employee Handbook.
+
+2. I understand the policies, procedures, and expectations outlined in this
+   handbook.
+
+3. I understand that this handbook is not a contract of employment and does
+   not guarantee employment for any specific period.
+
+4. I understand that policies may be updated and I will be notified of
+   significant changes.
+
+5. I agree to comply with the policies in this handbook.
+
+6. I understand that violations of these policies may result in disciplinary
+   action, up to and including termination.
+
+
+_________________________________          _________________
+Employee Signature                          Date
+
+
+_________________________________
+Employee Name (Printed)
+
+
+_________________________________          _________________
+Company Representative Signature            Date
+
+
+_________________________________
+Company Representative Name (Printed)
+
+================================================================================
+
+This handbook is effective as of: _________________
+
+Last updated: _________________
+
+================================================================================
+                     ABACUS DATA CONSULTING
+              Empowering Better Decisions Through Data
+================================================================================
